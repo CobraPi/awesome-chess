@@ -61,6 +61,7 @@ Websites
  - [chess.com](http://www.chess.com/) - Learn and play chess with over 5 million other users.
  - [chesscademy.com](https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (Works similar to Khan Academy.)
  - [chesstempo.com](http://chesstempo.com) - Online chess tactics training site.
+ - [practicalwebtools.com](https://practicalwebtools.com/tools/play-vs-stockfish) - Free browser chess: play against Stockfish at adjustable levels, plus a chess opening trainer. No account needed.
  - [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
  - [freechess.org](http://freechess.org/) - The 'Free Internet Chess Server' (FICS) is one of the oldest Internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
 
